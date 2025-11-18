@@ -3,10 +3,6 @@
 <h3 align="center">CS Student always hungry to learn and create cool stuff.</h3>
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishpdl&label=Profile%20views&color=0e75b6&style=flat" alt="manishpdl" /> </p>
-
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://manishpoudel.com.np/](https://manishpoudel.com.np/)
